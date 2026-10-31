@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Virendra%20Kumar&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%94%EF%B8%8F%20Principal%20DevSecOps%20Architect%20%E2%80%A2%20AI%20Systems%20%26%20LLMOps%20Engineer%20%E2%80%A2%2015%2B%20Years%20IT%20Veteran&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Virendra%20Kumar&fontSize=75&fontColor=ffffff&fontAlignY=40&desc=Principal%20DevSecOps%20Architect%20%7C%20AI%20Systems%20%7C%2015%2B%20Years%20IT%20Veteran&descSize=19&descAlignY=62&animation=fadeIn" width="100%"/>
+
+# 🛡️ VIRENDRA KUMAR 🛡️
+### ⚔️ Principal DevSecOps Architect · 🤖 AI Systems & LLMOps Lead · 💼 15+ Years IT Veteran
 
 <!-- DYNAMIC TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=🤖+AI-Native+DevSecOps+%7C+Autonomous+Multi-Agent+Systems+%2B+Model+Context+Protocol+(MCP);🧠+Enterprise+Production+RAG+%7C+Vector+DBs+%2B+LangGraph+%2B+AI+Safety+Firewalls;💼+15%2B+Years+Enterprise+IT+Experience+%7C+7.5%2B+Years+Senior+DevSecOps+Specialist;🏛️+Enterprise+Cloud+Architect+%7C+100%2B+Workload+Datacenter+to+Azure+Migration;🛡️+Zero-Trust+Supply+Chain+%7C+SLSA+L3%2FL4+%2B+eBPF+Kernel+Security+%2B+Cosign;💰+FinOps+Cost+Governance+%7C+38%25+Cloud+Waste+Elimination+%2B+Strategic+Rightsizing" alt="Typing SVG"/>
